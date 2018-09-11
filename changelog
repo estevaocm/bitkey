@@ -1,6 +1,17 @@
- -- Steven Monteiro <https://github.com/estevaocm> Mon, 08 Jan 2018
-
- turnkey-bitkey-14.2.0-community-1.12 (1) turnkey; urgency=low
+ -- Steven Monteiro <https://github.com/estevaocm> Sun, 15 Apr 2018
+turnkey-bitkey-14.2.0-community-1.13 (1) turnkey; urgency=low
+  * Added:
+    - Armory Wallet
+    - Base43 decoder
+  * Upgraded:
+    - BIP39 wallet 0.3.5
+    - Electrum 3.1.2
+    - Electrum-DASH 2.9.4
+    - Electrum-LTC 3.1.2.1
+    - MyEtherWallet 3.21.07
+   
+ -- Steven Monteiro <https://github.com/estevaocm> Wed, 21 Mar 2018
+turnkey-bitkey-14.2.0-community-1.12 (1) turnkey; urgency=low
   * Added:
     - keepassxc
   * Upgraded:
@@ -8,11 +19,13 @@
     - MyEtherWallet 3.21.01
     - BIP39 wallet 0.3.4  
  
- turnkey-bitkey-14.2.0-qrscan-altcoins-1.11 (1) turnkey; urgency=low
+ -- Steven Monteiro <https://github.com/estevaocm> Sat, 10 Mar 2018
+turnkey-bitkey-14.2.0-qrscan-altcoins-1.11 (1) turnkey; urgency=low
   * Added KeePassX
   * Upgraded Electrum 3.1
 
- turnkey-bitkey-14.2.0-qrscan-altcoins-1.10 (1) turnkey; urgency=low
+ -- Steven Monteiro <https://github.com/estevaocm> Thu, 8 Mar 2018
+turnkey-bitkey-14.2.0-qrscan-altcoins-1.10 (1) turnkey; urgency=low
   * Upgraded:
   	- BIP39 wallet 0.3.3
   	- Electrum 3.0.6
@@ -22,14 +35,16 @@
   	- MyEtherWallet 3.20.01
   	- Ripple Wallet 1.2.4
   
- turnkey-bitkey-14.2.0-qrscan-altcoins-1.09 (1) turnkey; urgency=low
+ -- Steven Monteiro <https://github.com/estevaocm> Tue, 09 Jan 2018
+turnkey-bitkey-14.2.0-qrscan-altcoins-1.09 (1) turnkey; urgency=low
   * Upgraded:
     - Electron Cash 3.1.2
     - Electrum 3.0.5
     - Electrum-LTC 3.0.5.1
     - MyEtherWallet 3.11.2
  
- turnkey-bitkey-14.2.0-qrscan-altcoins-1.08 (1) turnkey; urgency=low
+ -- Steven Monteiro <https://github.com/estevaocm> Mon, 08 Jan 2018
+turnkey-bitkey-14.2.0-qrscan-altcoins-1.08 (1) turnkey; urgency=low
  
   * Added:
     - App packages checksum verification during system build
